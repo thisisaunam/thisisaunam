@@ -9,7 +9,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=1500&color=C7B299&center=true&vCenter=true&width=700&lines=building.;learning.;creating.;one+commit+closer+than+yesterday." />
 </p>
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
