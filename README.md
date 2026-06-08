@@ -63,8 +63,7 @@
 
 ### building
 
-☕️ LifeLedger
---> a personal finance and life tracking application currently in development.
+☕️ LifeLedger → a personal finance and life tracking application currently in development.
 
 <p align="center">
 ୨୧
