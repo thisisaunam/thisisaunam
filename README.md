@@ -58,8 +58,6 @@
 * technology that creates real-world impact
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
-<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
 
