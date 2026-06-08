@@ -1,5 +1,8 @@
 # 📜 hi!
 
+<p align="center">
+<img width="450" src="https://i.pinimg.com/originals/60/6d/83/606d832d22e2db54a2946e1e83489a77.gif"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=1500&color=C7B299&center=true&vCenter=true&width=700&lines=building.;learning.;creating.;one+commit+closer+than+yesterday." />
@@ -17,7 +20,7 @@
 * ui design
 
 <p align="center">
-<img width="450" src="YOUR_GIF_HERE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
 
 ### interested in
