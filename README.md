@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+୨୧
+</p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
 </p>
 
@@ -40,7 +44,7 @@
 * technology that creates real-world impact
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
+୨୧
 </p>
 
 ### building
@@ -49,13 +53,14 @@
 --> a personal finance and life tracking application currently in development.
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
+୨୧
 </p>
 
-![](https://komarev.com/ghpvc/?username=thisisaunam&style=flat-square&color=C7B299)
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
 
 work in progress, like all good things. <3
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=thisisaunam&style=flat-square&color=C7B299&label=views" />
+</p>
