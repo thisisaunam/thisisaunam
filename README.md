@@ -61,7 +61,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thisisaunam&theme=transparent&ring=C7B299&fire=C7B299&currStreakLabel=C7B299&sideLabels=9E8B78&dates=9E8B78&currStreakNum=C7B299&longestStreakNum=C7B299&longestStreakLabel=9E8B78&stroke=C7B29940&border=C7B299B0" />
+  <img src="https://streak-stats.demolab.com?user=thisisaunam&theme=transparent&ring=C7B299&fire=C7B299&currStreakLabel=C7B299&currStreakNum=C7B299&sideNums=C7B299&sideLabels=9E8B78&dates=9E8B78&stroke=C7B29940&border=C7B299B0" />
 </p>
 
 <p align="center">
