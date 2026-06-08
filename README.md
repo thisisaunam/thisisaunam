@@ -58,6 +58,11 @@
 * technology that creates real-world impact
 
 <p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
+
+[![streak](https://streak-stats.demolab.com?user=thisisaunam&theme=transparent&ring=C7B299&fire=C7B299&currStreakLabel=C7B299&sideLabels=9E8B78&dates=9E8B78&border=C7B299B0)](https://github.com/thisisaunam)
+
+<p align="center">
 ୨୧
 </p>
 
