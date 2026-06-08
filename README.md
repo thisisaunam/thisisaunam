@@ -37,15 +37,13 @@
 </p>
 
 ### statistics
-<p align="center">
+[<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thisisaunam&show_icons=true" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=thisisaunam&cache_seconds=1800)
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
 
-
----
 
 under construction. <3
