@@ -35,8 +35,12 @@
 ### currently exploring
 
 * python
+* git & github
 * software engineering fundamentals
+* web fundamentals (html, markdown)
 * ui design
+* building projects from scratch
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
 </p>
