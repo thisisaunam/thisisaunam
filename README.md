@@ -18,11 +18,14 @@
 </p>
 
 <p align="center">
-_**˚₊‧꒰ა current tools ໒꒱ ‧₊˚**_
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C7B299&height=35&section=header&text=current%20tools&fontColor=ffffff&fontSize=16" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
+<img src="https://img.shields.io/badge/Python-C7B299?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Git-C7B299?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-C7B299?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-C7B299?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 <p align="center">
@@ -34,13 +37,16 @@ _**˚₊‧꒰ა current tools ໒꒱ ‧₊˚**_
 * python
 * software engineering fundamentals
 * ui design
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=C7B299&section=footer"/>
 </p>
 
 <p align="center">
 <img width="100%" src="https://i.pinimg.com/originals/af/ac/3d/afac3d10257cf3a21e6982587e57e901.gif"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
 </p>
 
 ### interested in
