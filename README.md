@@ -1,7 +1,7 @@
 # 📜 hi!
 
 <p align="center">
-<img width="450" src="https://i.pinimg.com/originals/60/6d/83/606d832d22e2db54a2946e1e83489a77.gif"/>
+<img width="100%" src="https://i.pinimg.com/originals/60/6d/83/606d832d22e2db54a2946e1e83489a77.gif"/>
 </p>
 
 <p align="center">
