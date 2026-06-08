@@ -1,16 +1,28 @@
-## Hi there 👋
+# 📜 hi!
 
-<!--
-**thisisaunam/thisisaunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building.
 
-Here are some ideas to get you started:
+software engineering student who likes creating things, learning new tech, and turning random ideas into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=C7B299"/>
+</p>
+
+### currently exploring
+
+* python
+* software engineering fundamentals
+* personal finance systems
+* ui design
+
+### interested in
+
+* building products people genuinely enjoy using
+* productivity & life-management systems
+* thoughtful design and user experience
+* clean, maintainable software
+* technology that creates real-world impact
+
+---
+
+work in progress!
