@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Git-C7B299?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-C7B299?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-C7B299?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-C7B299?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-C7B299?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-C7B299?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 <p align="center">
